@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hola, soy Christian 👋
 
-<!--
-**ChTole/ChTole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack. Desarrollo de punta a punta aplicaciones web, plataformas de e-learning y herramientas de telemetría para simulaciones de Realidad Extendida.
 
-Here are some ideas to get you started:
+🌐 **Portfolio:** [christiantoledo-dev.netlify.app](https://christiantoledo-dev.netlify.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **LinkedIn:** [christianarieltoledo](https://www.linkedin.com/in/christianarieltoledo/)
+
+### En qué estoy
+
+- 🥽 Telemetría y análisis de datos para simulaciones de Unity en Meta Quest.
+- 🎮 Formación en desarrollo de videojuegos con Unity, con foco en gamificación y entornos inmersivos.
+- 🎓 Tecnicatura Superior en Desarrollo de Software.
+
+### Destacado
+
+- **Plataforma de orientación para el empleo** con más de 40.000 personas registradas: test de habilidades integrado con Moodle, agenda de encuentros, tableros estadísticos y back office.
+- **Este portfolio** ([repo](https://github.com/ChTole/Portfolio)): Angular 22, Bootstrap y despliegue en Netlify.
+
+### Stack
+
+- **Lenguajes:** Python · TypeScript · JavaScript · C# · SQL
+- **Backend:** Django · Django REST Framework · Flask · Celery · Redis
+- **Frontend:** Angular · Bootstrap · Tailwind CSS
+- **Datos e IA:** Pandas · scikit-learn · TensorFlow · NLTK · Tableau
+- **Infraestructura:** Docker · Git · Linux · MariaDB · MySQL · MongoDB
+- **XR y e-learning:** Unity · Meta Quest · Moodle · SCORM
