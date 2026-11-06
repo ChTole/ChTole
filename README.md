@@ -15,7 +15,12 @@ Desarrollador Full Stack. Desarrollo de punta a punta aplicaciones web, platafor
 ### Destacado
 
 - **Plataforma de orientación para el empleo** con más de 40.000 personas registradas: test de habilidades integrado con Moodle, agenda de encuentros, tableros estadísticos y back office.
+- **[Bitácora](https://github.com/ChTole/bitacora)**: package de Unity de código abierto para registrar sesiones y eventos de telemetría en simulaciones educativas, con su API documentada y un servidor de prueba en Flask.
 - **Este portfolio** ([repo](https://github.com/ChTole/Portfolio)): Angular 22, Bootstrap y despliegue en Netlify.
+
+### Certificaciones
+
+- 🍃 [MongoDB Certified Associate Developer](https://learn.mongodb.com/c/OAm2v8B-SiSp3MD5B0lE1w)
 
 ### Stack
 
