@@ -8,13 +8,15 @@ Desarrollador Full Stack. Desarrollo de punta a punta aplicaciones web, platafor
 
 ### En qué estoy
 
-- 🥽 Telemetría y análisis de datos para simulaciones de Unity en Meta Quest.
+- 📊 Backend de telemetría y tablero de métricas de aprendizaje para Bitácora.
+- 🥽 Versión para Meta Quest del Taller de Ensamblado.
 - 🎮 Formación en desarrollo de videojuegos con Unity, con foco en gamificación y entornos inmersivos.
 - 🎓 Tecnicatura Superior en Desarrollo de Software.
 
 ### Destacado
 
 - **Plataforma de orientación para el empleo** con más de 40.000 personas registradas: test de habilidades integrado con Moodle, agenda de encuentros, tableros estadísticos y back office.
+- **[Taller de Ensamblado](https://github.com/ChTole/taller-ensamblado)**: simulación de carpintería para el navegador, con telemetría de cada intento. [Probala](https://taller-de-ensamblado.netlify.app).
 - **[Bitácora](https://github.com/ChTole/bitacora)**: package de Unity de código abierto para registrar sesiones y eventos de telemetría en simulaciones educativas, con su API documentada y un servidor de prueba en Flask.
 - **Este portfolio** ([repo](https://github.com/ChTole/Portfolio)): Angular 22, Bootstrap y despliegue en Netlify.
 
